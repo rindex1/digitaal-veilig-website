@@ -75,6 +75,11 @@ export default function ZakelijkPage() {
                     </div>
                   </div>
                 </div>
+                <div className="mt-6">
+                  <Link href="/contact" className="text-primary-600 hover:text-primary-700 font-semibold text-sm">
+                    Meer weten? →
+                  </Link>
+                </div>
               </div>
 
               {/* Cybersecurity Bescherming */}
@@ -113,6 +118,11 @@ export default function ZakelijkPage() {
                       <p className="text-gray-600 text-sm">Hulp bij herstel na cyberaanvallen</p>
                     </div>
                   </div>
+                </div>
+                <div className="mt-6">
+                  <Link href="/contact" className="text-red-600 hover:text-red-700 font-semibold text-sm">
+                    Meer weten? →
+                  </Link>
                 </div>
               </div>
 
@@ -153,6 +163,11 @@ export default function ZakelijkPage() {
                     </div>
                   </div>
                 </div>
+                <div className="mt-6">
+                  <Link href="/contact" className="text-green-600 hover:text-green-700 font-semibold text-sm">
+                    Meer weten? →
+                  </Link>
+                </div>
               </div>
 
               {/* Medewerker Training */}
@@ -191,6 +206,11 @@ export default function ZakelijkPage() {
                       <p className="text-gray-600 text-sm">Privacy bescherming in de praktijk</p>
                     </div>
                   </div>
+                </div>
+                <div className="mt-6">
+                  <Link href="/contact" className="text-blue-600 hover:text-blue-700 font-semibold text-sm">
+                    Meer weten? →
+                  </Link>
                 </div>
               </div>
             </div>

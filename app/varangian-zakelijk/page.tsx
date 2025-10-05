@@ -91,6 +91,11 @@ export default function VarangianZakelijkPage() {
                     </div>
                   </div>
                 </div>
+                <div className="mt-6">
+                  <Link href="/contact" className="text-primary-600 hover:text-primary-700 font-semibold text-sm">
+                    Meer weten? →
+                  </Link>
+                </div>
               </div>
 
               {/* Consultancy */}
@@ -136,6 +141,11 @@ export default function VarangianZakelijkPage() {
                       <p className="text-gray-600 text-sm">Ondersteuning bij organisatorische veranderingen</p>
                     </div>
                   </div>
+                </div>
+                <div className="mt-6">
+                  <Link href="/contact" className="text-secondary-600 hover:text-secondary-700 font-semibold text-sm">
+                    Meer weten? →
+                  </Link>
                 </div>
               </div>
 
@@ -183,6 +193,11 @@ export default function VarangianZakelijkPage() {
                     </div>
                   </div>
                 </div>
+                <div className="mt-6">
+                  <Link href="/contact" className="text-red-600 hover:text-red-700 font-semibold text-sm">
+                    Meer weten? →
+                  </Link>
+                </div>
               </div>
 
               {/* Training & Awareness */}
@@ -228,6 +243,11 @@ export default function VarangianZakelijkPage() {
                       <p className="text-gray-600 text-sm">Training over GDPR, ISO27001 en ISO27701 vereisten</p>
                     </div>
                   </div>
+                </div>
+                <div className="mt-6">
+                  <Link href="/contact" className="text-green-600 hover:text-green-700 font-semibold text-sm">
+                    Meer weten? →
+                  </Link>
                 </div>
               </div>
             </div>
@@ -278,6 +298,11 @@ export default function VarangianZakelijkPage() {
                     </div>
                   </div>
                 </div>
+                <div className="mt-6">
+                  <Link href="/contact" className="text-purple-600 hover:text-purple-700 font-semibold text-sm">
+                    Meer weten? →
+                  </Link>
+                </div>
               </div>
 
               {/* ISO9001 Informatiesystemen */}
@@ -324,6 +349,11 @@ export default function VarangianZakelijkPage() {
                       <p className="text-gray-600 text-sm">Continue monitoring van ISO9001 compliance</p>
                     </div>
                   </div>
+                </div>
+                <div className="mt-6">
+                  <Link href="/contact" className="text-orange-600 hover:text-orange-700 font-semibold text-sm">
+                    Meer weten? →
+                  </Link>
                 </div>
               </div>
             </div>
